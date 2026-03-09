@@ -1,4 +1,4 @@
-# 🔢 Generative Models for Handwritten Digit (GAN vs VAE)
+# 🔢 Generative Models for Handwritten Digit Synthesis (GAN vs VAE)
 
 This project investigates the effectiveness of two popular generative models:
 
